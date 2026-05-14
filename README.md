@@ -19,7 +19,9 @@ What ratings do most restaurants receive?
 What is the average spending of couples ordering online?
 Which mode (online/offline) receives better ratings?
 Which restaurants receive more offline orders?
-Technologies Used
+
+Technologies Used-
+
 Python
 Pandas
 NumPy
@@ -33,19 +35,26 @@ Data Preprocessing
 Exploratory Data Analysis
 Data Visualization
 Business Insights
-Key Insights
+
+Key Insights-
+
 Identified the most preferred restaurant types.
 Compared online and offline ordering behaviour.
 Analyzed customer ratings and voting patterns.
 Generated insights helpful for business decision-making.
-Files Included
+
+Files Included-
+
 zomato_analysis.ipynb → Main analysis notebook
 zomato.csv → Dataset
 README.md → Project documentation
-Future Improvements
+
+Future Improvements -
+
 Build an interactive dashboard using Power BI/Tableau
 Add Machine Learning prediction models
 Deploy the project using Streamlit
-Author
 
+
+Author-
 Arjita Yash
